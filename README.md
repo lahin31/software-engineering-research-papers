@@ -1,6 +1,6 @@
 # Software Engineering research papers
 
-In this repo soon I will document some useful reseach papers for everyone (including me).
+In this repo I will gather some useful reseach papers for software engineers.
 
 ## Database Engineering
 
@@ -17,3 +17,5 @@ In this repo soon I will document some useful reseach papers for everyone (inclu
 - [Cassandra - A Decentralized Structured Storage System](https://drive.google.com/file/d/1IUNUuQki6l_aoZQO5_K0yTjb0LsmAZ4j/view?usp=drive_link)
 
 - [Scaling Memcache at Facebook](https://drive.google.com/file/d/1efHO1XgpCliAG4VOuic3YlUXT3uMv3W3/view?usp=sharing)
+
+- [Bigtable: A Distributed Storage System for Structured Data](https://drive.google.com/file/d/1dx3XPI-TvU8D8iNss88d-tMXniZViYfH/view?usp=sharing)
