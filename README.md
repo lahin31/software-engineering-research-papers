@@ -19,3 +19,7 @@ In this repo I will gather some useful reseach papers for software engineers.
 - [Scaling Memcache at Facebook](https://drive.google.com/file/d/1efHO1XgpCliAG4VOuic3YlUXT3uMv3W3/view?usp=sharing)
 
 - [Bigtable: A Distributed Storage System for Structured Data](https://drive.google.com/file/d/1dx3XPI-TvU8D8iNss88d-tMXniZViYfH/view?usp=sharing)
+
+- [Monarch: Google’s Planet-Scale In-Memory Time Series Database](https://drive.google.com/file/d/1wPYxWJSx20aOPjcLSGiS8FNFIHG0uCWi/view?usp=sharing)
+
+- [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://drive.google.com/file/d/1Qq_YOWJi60TVF4kRAe4QVtTpZJ2c1OST/view?usp=sharing)
